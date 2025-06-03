@@ -9,7 +9,7 @@ Features:
 
 
 1.Introduction
-2.Problem Statement - optopnal
+2.Problem Statement - optional
 3.Objective
 4.Features
 5.Tools and Technique
