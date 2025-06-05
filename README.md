@@ -13,18 +13,18 @@ The objective of the project is to create a simple, menu-driven C# program that 
 4. Features
 Unit Conversion: Support for conversion of distance (km ↔ miles), temperature (°C ↔ °F), and weight (kg ↔ lbs).
 
-Simple Menu System: Trivial navigation using a console-based menu.
+ Simple Menu System: Trivial navigation using a console-based menu.
 
 Interactive User Input: The user can select the conversion type and input values for the conversion.
 
-Error Handling: User inputs are validated, and feedback is given.
+ Error Handling: User inputs are validated, and feedback is given.
 
 5. Tools and Techniques
 C#: The programming language the unit converter is written in.
 
-Console Application: A text-based menu system is utilized as the user interface.
+ Console Application: A text-based menu system is utilized as the user interface.
 
-Mathematical Conversion Formulas: Trivial conversion formulas are applied for every unit type.
+ Mathematical Conversion Formulas: Trivial conversion formulas are applied for every unit type.
 
 6. Demo Sample
 The program displays a menu by which the user chooses the conversion type to be performed (distance, temperature, or weight). After a conversion type has been selected, the user inputs the value, and the program converts it, displaying the result to the user. The user can continue converting or exit the application at will.
